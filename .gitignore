@@ -1,2 +1,14 @@
+# Mac
+.DS_Store
+
+# Compiled binary addons
+build
+
+# Dependency directory
 node_modules
+
+# IDE directories
+.idea
+.history
+
 
